@@ -2,4 +2,4 @@
 �
 �
 
-minumum version : Android8.0 (Oreo)
+minimum version : Android8.0 (Oreo)
